@@ -1,0 +1,5 @@
+alpha=1e-06
+ensemble_exclude_fraction=0.1
+Hidden layer sizes=50
+X_variables=['ZEFFC', 'DN0OUT', 'R0', 'ELONG', 'PCURC', 'AMIN', 'BZXR', 'TRIANGU', 'TRIANGL', 'pinj01', 'pinj02', 'pinj03', 'pinj04', 'pinj05', 'pinj06', 'pinj01_lpf_1', 'pinj01_lpf_2', 'pinj01_lpf_3', 'pinj02_lpf_1', 'pinj02_lpf_2', 'pinj02_lpf_3', 'pinj03_lpf_1', 'pinj03_lpf_2', 'pinj03_lpf_3', 'pinj04_lpf_1', 'pinj04_lpf_2', 'pinj04_lpf_3', 'pinj05_lpf_1', 'pinj05_lpf_2', 'pinj05_lpf_3', 'pinj06_lpf_1', 'pinj06_lpf_2', 'pinj06_lpf_3', 'TE01', 'TE02', 'TE03', 'TE04', 'NE01', 'NE02', 'NE03', 'NE04', 'Q01', 'Q02', 'Q03', 'Q04', 'DIFB01', 'DIFB02', 'DIFB03', 'DIFB04']
+n_nn=5
