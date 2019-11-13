@@ -1,4 +1,4 @@
-# Princeton-Plasma-Lab-Neural-Network-with-Data-Visualizer-
+# Princeton Plasma Lab Neural-Network with Data Visualizer 
 Work I did at PPPL in the summer of 2018.
 # Poster Presentation
 Please refer to the "FINAL_Vaish_Gajaraj_PPPL_Poster.pdf" for the poster presented at the 60th Annual Meeting of the APS Division of Plasma Physics and created during my time working for Princeton's Plasma Physics Lab.
