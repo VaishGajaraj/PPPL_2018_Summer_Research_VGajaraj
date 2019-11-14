@@ -12,4 +12,4 @@ Please refer to "viewnubeamnet.py" to view the visualization tool for these mach
 
 
 # Models
-This folder contains the raw pickle data that contains my developed models. These can be viewed using the Widget Tool
+This folder contains the raw pickle data that contains my developed models. These can be viewed using the Widget Tool.
